@@ -1,5 +1,3 @@
-import express from 'express';
-
-app = express();
+import app from './app';
 
 app.listen(3333);
